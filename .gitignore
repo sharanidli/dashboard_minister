@@ -1,0 +1,17 @@
+# NEVER commit data — privacy and size
+*.dta
+*.csv
+*.xlsx
+*.xls
+*.shp
+*.dbf
+*.shx
+*.pkl
+# logs / scratch
+*.log
+*.smcl
+*.gph
+# os
+.DS_Store
+Thumbs.db
+desktop.ini
